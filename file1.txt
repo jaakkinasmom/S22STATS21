@@ -1,7 +1,0 @@
-This is a basic text file
-
-List
-
-red
-orange
-yellow
