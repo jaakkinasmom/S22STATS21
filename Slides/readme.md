@@ -1,3 +1,3 @@
 ## lecture slides
 
-## modifieed in Kraken
+## modified in Kraken
