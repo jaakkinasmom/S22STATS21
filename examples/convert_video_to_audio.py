@@ -15,5 +15,5 @@ if __name__ == "__main__":
     convert_video_to_audio_moviepy(vf)
 
 """ Use example
-$ python convert_video_to_audio.py zoo.webm
+$ python convert_video_to_audio.py my_video.mp4
 """
