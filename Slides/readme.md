@@ -1,3 +1,3 @@
 ## lecture slides
 
-## modified in Kraken
+## modified using GitHub Desktop
