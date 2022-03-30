@@ -4,6 +4,4 @@ Public repository for Stats 21 Spring Quarter 2022 at UCLA, just a place for pra
 
 ## Modifications
 
-![window](https://github.com/lewv/S22STATS21/blob/main/stuff/Window1.JPG)
-
-Finally!
+![](lewv/S22STATS21/stuff/Window1.jpg)
