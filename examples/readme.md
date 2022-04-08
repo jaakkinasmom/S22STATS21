@@ -6,4 +6,4 @@ Small_one.ipynb needs
 - python3.png  
 - GoPro Swimming with Dolphins - Santa Cruz CA.mp4
  
- 
+### Add to this please
