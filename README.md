@@ -7,3 +7,6 @@ Public repository for Stats 21 Spring Quarter 2022 at UCLA
 ![](lewv/S22STATS21/stuff/Window1.jpg)
 
 ## Suggestions
+
+- You can go ahead and modify.
+- I can always change it.
