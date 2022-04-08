@@ -10,3 +10,4 @@ Public repository for Stats 21 Spring Quarter 2022 at UCLA
 
 - You can go ahead and modify.
 - I can always change it.
+- I changed it.
