@@ -7,3 +7,5 @@ Small_one.ipynb needs
 - GoPro Swimming with Dolphins - Santa Cruz CA.mp4
  
  
+### Currency
+Currency1.ipynb and Currency1.py could be better documented.
